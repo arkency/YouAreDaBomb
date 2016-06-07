@@ -1,6 +1,6 @@
 {
   "name": "you-are-da-bomb",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple AOP library",
   "main": "lib/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arkency/event-bus.git"
+    "url": "git+https://github.com/arkency/YouAreDaBomb.git"
   },
   "keywords": [
     "aop",
